@@ -2,7 +2,7 @@
 
 ## Description
 
-My Awesome Project is a web application designed to help users manage their tasks more efficiently. It offers features like task tracking, reminders, and collaborative task management to enhance productivity.
+My git hol Project is a web application designed to help users manage their tasks more efficiently. It offers features like task tracking, reminders, and collaborative task management to enhance productivity.
 
 ## Getting Started
 
